@@ -1,0 +1,10 @@
+galaxy_info:
+  role_name: jdk
+  author: Gaelle MANGIN
+  description: install jdk
+  company: scaleway
+  min_ansible_version: 2.0
+  license: "license (BSD, MIT)"
+
+  galaxy_tags: [jdk]
+
